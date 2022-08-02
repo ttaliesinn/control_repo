@@ -1,3 +1,3 @@
-class role::master_server {
+class role::client_server {
   include profile::base
  }
