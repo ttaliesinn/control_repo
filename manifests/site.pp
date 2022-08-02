@@ -1,5 +1,5 @@
 node default {
 }
-nome 'client' {
-  include role::master_server
+node 'client' {
+  include role::client_server
  }
