@@ -1,5 +1,5 @@
 node default {
 }
-nome 'client.mshome.net' {
+nome 'client' {
   include role::master_server
  }
