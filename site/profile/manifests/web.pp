@@ -1,3 +1,3 @@
 class profile::web {
-  include puppet-ngnix
+  include nginx
  }
